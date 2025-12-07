@@ -1,0 +1,12 @@
+# Node modules
+node_modules/
+
+# Environment/config files
+config.json
+.env
+
+# Logs
+*.log
+
+# TypeScript build
+dist/
